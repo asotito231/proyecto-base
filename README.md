@@ -11,3 +11,12 @@ al crear proyecto incluir "--rooting"
 - indigo/pink
 - y
 - include and enable animations
+
+
+Generadores:
+
+- ng g s "cats/services/cats-api"
+
+- ng g c "cats/components/footer-content"
+
+- ng g cl "cats/mode/cocktail.entity"
