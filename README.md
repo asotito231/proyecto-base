@@ -2,7 +2,6 @@
 
 al crear proyecto incluir "--rooting"
 
-
 - ng update
 - ng update @angular/core @angular/cli
 - ng add @angular/material
@@ -12,6 +11,10 @@ al crear proyecto incluir "--rooting"
 - y
 - include and enable animations
 
+Para abrir el json server
+
+ - cd server
+ - json-server --watch db.json --routes routes.json
 
 Generadores:
 
